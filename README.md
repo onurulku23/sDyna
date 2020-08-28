@@ -9,17 +9,19 @@ sDyna can be reached with [setup file](https://drive.google.com/file/d/1wOrw0f-y
 
 ### NOTES:
 
-1- When trying to enter data, do not forget to fill all required areas. 
+1- When trying to enter data, do not forget to fill all required areas.
 
-2- Damping raito is set as 0.05 for reinforced concrete buildings.
+2- Floor, Mass, and Stiffness can be saved and opened as an Excel file.  
 
-3- Newmark Method is used to evaluate dynamic response numerically.
+3- Damping raito is set as 0.05 for reinforced concrete buildings.
 
-4- Modes' base shear forces have been integrated with SRSS Method(Square Root of Sum of Squares).
+4- Newmark Method is used to evaluate dynamic response numerically.
 
-5- Earthquake data must be taken from [AFAD](https://tadas.afad.gov.tr)* web page. There is an example earthquke data file to use.
+5- Modes' base shear forces have been integrated with SRSS Method(Square Root of Sum of Squares).
 
-6- It is recommended to add the floor data in order.
+6- Earthquake data must be taken from [AFAD](https://tadas.afad.gov.tr)* web page. There is an example earthquke data file to use.
+
+7- It is recommended to add the floor data in order.
 
 
 ### *HOW TO USE AFAD
