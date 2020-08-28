@@ -1,5 +1,5 @@
 # sDyna
-Developed with [Onur Ulku](https://github.com/onurulku23).
+Developed with [Ali Talha Atici](https://github.com/alitatici).
 
 The basic aim of the application is to calculate the base shear force of multi-degree of freedom (MDOF) systems according to selected earthquake data. Response of multi degree of freedom systems to ground motion can be solved by sDyna easily. Mass and stiffness must be entered to calculate amplitudes of the system according to the equation of motion (EOM) for each floor. Besides, sDyna creates a unique and brief report with your inputs in MS Word(.docx) format. You can check the results, mode shapes, and graphs from this report.
 
