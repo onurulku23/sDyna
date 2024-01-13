@@ -5,7 +5,7 @@ The basic aim of the application is to calculate the base shear force of multi-d
 
 ### SETUP FILE 
 
-sDyna can be reached with [setup file](https://drive.google.com/file/d/1wOrw0f-yjygQAH-0EQWknsbBQFWn9zWl/view).
+sDyna can be reached with [setup file](https://drive.google.com/drive/folders/1BBn17C7urMuHj_ycweFupL89jqsMJlBt).
 
 ### NOTES:
 
